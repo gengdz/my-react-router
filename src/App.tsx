@@ -1,6 +1,5 @@
-import "./styles.css";
 // import { BrowserRouter as Router, Link, Switch, Route } from "react-router-dom";
-import { Router, Route, Switch, Link } from "./components";
+import { Router, Route, Switch, Link } from "./react-router";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Dashboard from "./pages/Dashboard";
